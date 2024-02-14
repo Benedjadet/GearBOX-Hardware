@@ -1,0 +1,35 @@
+Altium Designer Pick and Place Locations
+D:\stm_projects\GearBOX-Hardware\Project Outputs for GearBOX\GearBOX-Fabrication-2024-02-14\PickPlace\Pick Place for GearBOX.csv
+
+========================================================================================================================
+File Design Information:
+
+Date:       14.02.24
+Time:       14:33
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+"Designator","Comment","Layer","Footprint","Center-X(mm)","Center-Y(mm)","Rotation"
+"XP1","DS1021-1X04SF11-B","TopLayer","DS1021-1X04SF11-B","2.0000mm","38.6300mm","270"
+"U3","LM1117DT-3.3/NOPB","TopLayer","SOT223","13.8000mm","42.6000mm","90"
+"C19","CL31B106KBHNNNE","TopLayer","Normal_Capacitor_Standard_1206-L3200-W1600-BW1250-H1600","13.8000mm","36.9000mm","0"
+"C18","CL31B106KBHNNNE","TopLayer","Normal_Capacitor_Standard_1206-L3200-W1600-BW1250-H1600","13.8000mm","48.3000mm","0"
+"C7","CL21B104MBFNNNE","TopLayer","Normal_Capacitor_Standard_0805-L2000-W1250-BW500-H1350","16.3000mm","23.5000mm","270"
+"VD1","SMBJ5.0A","TopLayer","2-MOLDED-E4600-D4000-A2700-H5600-B2200","13.8000mm","51.8000mm","180"
+"U1","GD32F303CGT6","TopLayer","48-LQFP","23.0000mm","26.1000mm","90"
+"R4","CR0805-24R-1%","TopLayer","SMD_RES_0805-L2000-W1250-H500-M24R0","24.0000mm","43.7000mm","270"
+"R3","CR0805-24R-1%","TopLayer","SMD_RES_0805-L2000-W1250-H500-M24R0","22.0000mm","43.7000mm","270"
+"R2","CR0805-1K5-1%","TopLayer","SMD_RES_0805-L2000-W1250-H500-M1501","20.0000mm","43.7000mm","270"
+"R1","CR0805-10K-1%","TopLayer","SMD_RES_0805-L2000-W1250-H500-M1002","16.3000mm","27.5000mm","270"
+"D2","BAV99L","TopLayer","3-SOT23","25.0000mm","49.7000mm","270"
+"D1","BAV99L","TopLayer","3-SOT23","21.0000mm","49.7000mm","270"
+"C6","CL21B104MBFNNNE","TopLayer","Normal_Capacitor_Standard_0805-L2000-W1250-BW500-H1350","19.8000mm","32.8000mm","180"
+"C5","CL21B104MBFNNNE","TopLayer","Normal_Capacitor_Standard_0805-L2000-W1250-BW500-H1350","29.7000mm","28.6000mm","90"
+"C4","CL31B475KBHNNNE","TopLayer","Normal_Capacitor_Standard_1206-L3200-W1600-BW1250-H1600","13.8000mm","34.3000mm","0"
+"C3","CL21B104MBFNNNE","TopLayer","Normal_Capacitor_Standard_0805-L2000-W1250-BW500-H1350","23.5000mm","18.3053mm","0"
+"C2","CL21B105MBFNNNE","TopLayer","Normal_Capacitor_Standard_0805-L2000-W1250-BW500-H1350","23.5000mm","16.3053mm","0"
+"C1","CL21B104MBFNNNE","TopLayer","Normal_Capacitor_Standard_0805-L2000-W1250-BW500-H1350","20.5000mm","17.3000mm","90"
+"XS2","DS1066-05MVW6X","TopLayer","DS1066-05MVWXX","40.0000mm","25.0000mm","90"
+"XS1","DS1099-WN0","TopLayer","DS1099","23.0000mm","58.2000mm","180"
+"R5","CR0805-10K-1%","TopLayer","SMD_RES_0805-L2000-W1250-H500-M1002","34.1000mm","23.0000mm","0"
