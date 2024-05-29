@@ -33,7 +33,7 @@ FSMCodingStyle=eFMSDropDownList_OneProcess
 FSMEncodingStyle=eFMSDropDownList_OneHot
 IsProjectConflictPreventionWarningsEnabled=0
 IsVirtualBomDocumentRemoved=0
-OutputPath=
+OutputPath=Project Outputs for GearBOX-Main
 LogFolderPath=
 ManagedProjectGUID=
 IncludeDesignInRelease=0
@@ -49,40 +49,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=MCU.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=0
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=TDHJWJYK
-
-[Document2]
-DocumentPath=Main.SchDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=FLOKIWVG
-
-[Document3]
 DocumentPath=USB.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -99,24 +65,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BVZHQPZX
 
-[Document4]
-DocumentPath=MCU.Harness
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document5]
+[Document2]
 DocumentPath=Supply-DC3V3.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -133,14 +82,14 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=RJOTZFQA
 
-[Document6]
-DocumentPath=Connector.SchDoc
+[Document3]
+DocumentPath=MCU.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=4
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -148,10 +97,44 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=GSJVMCVP
+DocumentUniqueId=TDHJWJYK
 
-[Document7]
-DocumentPath=GearBOX.PcbDoc
+[Document4]
+DocumentPath=Main.SchDoc
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=FLOKIWVG
+
+[Document5]
+DocumentPath=MCU.Harness
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
+[Document6]
+DocumentPath=GearBOX-Main.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -167,8 +150,25 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=BXVYEKMA
 
+[Document7]
+DocumentPath=GearBOX-Main.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=1
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
+
 [Document8]
-DocumentPath=GearBOX.OutJob
+DocumentPath=USB.Harness
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -185,88 +185,180 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for GearBOX\GearBOX-Fabrication-2024-02-14\Copy of Bill of Materials\Copy of Bill of Materials-GearBOX.xlsx
+DocumentPath=Project Outputs for GearBOX-Main\GearBOX-Main-Fabrication-2024-05-29\BOM\BOM-GearBOX-Main.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument2]
-DocumentPath=Project Outputs for GearBOX\GearBOX-Fabrication-2024-02-14\NC_Drill\GearBOX.DRR
+DocumentPath=Project Outputs for GearBOX\GearBOX-Fabrication-2024-02-14\Copy of Bill of Materials\Copy of Bill of Materials-GearBOX.xlsx
 DItemRevisionGUID=
 
 [GeneratedDocument3]
-DocumentPath=Project Outputs for GearBOX\GearBOX-Fabrication-2024-02-14\Gerber\GearBOX.EXTREP
+DocumentPath=Project Outputs for GearBOX-Main\Design Rule Check - GearBOX-Main.html
 DItemRevisionGUID=
 
 [GeneratedDocument4]
-DocumentPath=Project Outputs for GearBOX\GearBOX-Fabrication-2024-02-14\Gerber\GearBOX.GBL
+DocumentPath=Project Outputs for GearBOX-Main\GearBOX-Main-Fabrication-2024-05-29\NCdrill\GearBOX-Main.DRR
 DItemRevisionGUID=
 
 [GeneratedDocument5]
-DocumentPath=Project Outputs for GearBOX\GearBOX-Fabrication-2024-02-14\Gerber\GearBOX.GBO
+DocumentPath=Project Outputs for GearBOX-Main\GearBOX-Main-Fabrication-2024-05-29\Gerber\GearBOX-Main.EXTREP
 DItemRevisionGUID=
 
 [GeneratedDocument6]
-DocumentPath=Project Outputs for GearBOX\GearBOX-Fabrication-2024-02-14\Gerber\GearBOX.GBP
+DocumentPath=Project Outputs for GearBOX-Main\GearBOX-Main-Fabrication-2024-05-29\Gerber\GearBOX-Main.GBL
 DItemRevisionGUID=
 
 [GeneratedDocument7]
-DocumentPath=Project Outputs for GearBOX\GearBOX-Fabrication-2024-02-14\Gerber\GearBOX.GBS
+DocumentPath=Project Outputs for GearBOX-Main\GearBOX-Main-Fabrication-2024-05-29\Gerber\GearBOX-Main.GBO
 DItemRevisionGUID=
 
 [GeneratedDocument8]
-DocumentPath=Project Outputs for GearBOX\GearBOX-Fabrication-2024-02-14\Gerber\GearBOX.GM26
+DocumentPath=Project Outputs for GearBOX-Main\GearBOX-Main-Fabrication-2024-05-29\Gerber\GearBOX-Main.GBP
 DItemRevisionGUID=
 
 [GeneratedDocument9]
-DocumentPath=Project Outputs for GearBOX\GearBOX-Fabrication-2024-02-14\Gerber\GearBOX.GTL
+DocumentPath=Project Outputs for GearBOX-Main\GearBOX-Main-Fabrication-2024-05-29\Gerber\GearBOX-Main.GBS
 DItemRevisionGUID=
 
 [GeneratedDocument10]
-DocumentPath=Project Outputs for GearBOX\GearBOX-Fabrication-2024-02-14\Gerber\GearBOX.GTO
+DocumentPath=Project Outputs for GearBOX-Main\GearBOX-Main-Fabrication-2024-05-29\Gerber\GearBOX-Main.GM26
 DItemRevisionGUID=
 
 [GeneratedDocument11]
-DocumentPath=Project Outputs for GearBOX\GearBOX-Fabrication-2024-02-14\Gerber\GearBOX.GTP
+DocumentPath=Project Outputs for GearBOX-Main\GearBOX-Main-Fabrication-2024-05-29\Gerber\GearBOX-Main.GTL
 DItemRevisionGUID=
 
 [GeneratedDocument12]
-DocumentPath=Project Outputs for GearBOX\GearBOX-Fabrication-2024-02-14\Gerber\GearBOX.GTS
+DocumentPath=Project Outputs for GearBOX-Main\GearBOX-Main-Fabrication-2024-05-29\Gerber\GearBOX-Main.GTO
 DItemRevisionGUID=
 
 [GeneratedDocument13]
-DocumentPath=Project Outputs for GearBOX\GearBOX-Fabrication-2024-02-14\NC_Drill\GearBOX.LDP
+DocumentPath=Project Outputs for GearBOX-Main\GearBOX-Main-Fabrication-2024-05-29\Gerber\GearBOX-Main.GTP
 DItemRevisionGUID=
 
 [GeneratedDocument14]
-DocumentPath=Project Outputs for GearBOX\GearBOX-Fabrication-2024-02-14\Gerber\GearBOX.REP
+DocumentPath=Project Outputs for GearBOX-Main\GearBOX-Main-Fabrication-2024-05-29\Gerber\GearBOX-Main.GTS
 DItemRevisionGUID=
 
 [GeneratedDocument15]
-DocumentPath=Project Outputs for GearBOX\GearBOX-Fabrication-2024-02-14\Gerber\GearBOX.RUL
+DocumentPath=Project Outputs for GearBOX-Main\GearBOX-Main-Fabrication-2024-05-29\NCdrill\GearBOX-Main.LDP
 DItemRevisionGUID=
 
 [GeneratedDocument16]
-DocumentPath=Project Outputs for GearBOX\GearBOX-Fabrication-2024-02-14\3D_Model\GearBOX.step
+DocumentPath=Project Outputs for GearBOX-Main\GearBOX-Main-Fabrication-2024-05-29\Gerber\GearBOX-Main.REP
 DItemRevisionGUID=
 
 [GeneratedDocument17]
-DocumentPath=Project Outputs for GearBOX\GearBOX-Fabrication-2024-02-14\NC_Drill\GearBOX.TXT
+DocumentPath=Project Outputs for GearBOX-Main\GearBOX-Main-Fabrication-2024-05-29\Gerber\GearBOX-Main.RUL
 DItemRevisionGUID=
 
 [GeneratedDocument18]
-DocumentPath=Project Outputs for GearBOX\GearBOX-Fabrication-2024-02-14\BoardStack\GearBOX.xls
+DocumentPath=Project Outputs for GearBOX-Main\GearBOX-Main-Fabrication-2024-05-29\3Dmodel\GearBOX-Main.step
 DItemRevisionGUID=
 
 [GeneratedDocument19]
-DocumentPath=Project Outputs for GearBOX\GearBOX-Fabrication-2024-02-14\PickPlace\Pick Place for GearBOX.csv
+DocumentPath=Project Outputs for GearBOX-Main\GearBOX-Main-Fabrication-2024-05-29\NCdrill\GearBOX-Main.TXT
 DItemRevisionGUID=
 
 [GeneratedDocument20]
+DocumentPath=Project Outputs for GearBOX-Main\GearBOX-Main-Fabrication-2024-05-29\BoardStack\GearBOX-Main.xls
+DItemRevisionGUID=
+
+[GeneratedDocument21]
+DocumentPath=Project Outputs for GearBOX\GearBOX-Fabrication-2024-02-14\NC_Drill\GearBOX.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument22]
+DocumentPath=Project Outputs for GearBOX\GearBOX-Fabrication-2024-02-14\Gerber\GearBOX.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument23]
+DocumentPath=Project Outputs for GearBOX\GearBOX-Fabrication-2024-02-14\Gerber\GearBOX.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument24]
+DocumentPath=Project Outputs for GearBOX\GearBOX-Fabrication-2024-02-14\Gerber\GearBOX.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument25]
+DocumentPath=Project Outputs for GearBOX\GearBOX-Fabrication-2024-02-14\Gerber\GearBOX.GBP
+DItemRevisionGUID=
+
+[GeneratedDocument26]
+DocumentPath=Project Outputs for GearBOX\GearBOX-Fabrication-2024-02-14\Gerber\GearBOX.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument27]
+DocumentPath=Project Outputs for GearBOX\GearBOX-Fabrication-2024-02-14\Gerber\GearBOX.GM26
+DItemRevisionGUID=
+
+[GeneratedDocument28]
+DocumentPath=Project Outputs for GearBOX\GearBOX-Fabrication-2024-02-14\Gerber\GearBOX.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument29]
+DocumentPath=Project Outputs for GearBOX\GearBOX-Fabrication-2024-02-14\Gerber\GearBOX.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument30]
+DocumentPath=Project Outputs for GearBOX\GearBOX-Fabrication-2024-02-14\Gerber\GearBOX.GTP
+DItemRevisionGUID=
+
+[GeneratedDocument31]
+DocumentPath=Project Outputs for GearBOX\GearBOX-Fabrication-2024-02-14\Gerber\GearBOX.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument32]
+DocumentPath=Project Outputs for GearBOX\GearBOX-Fabrication-2024-02-14\NC_Drill\GearBOX.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument33]
+DocumentPath=Project Outputs for GearBOX\GearBOX-Fabrication-2024-02-14\Gerber\GearBOX.REP
+DItemRevisionGUID=
+
+[GeneratedDocument34]
+DocumentPath=Project Outputs for GearBOX\GearBOX-Fabrication-2024-02-14\Gerber\GearBOX.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument35]
+DocumentPath=Project Outputs for GearBOX\GearBOX-Fabrication-2024-02-14\3D_Model\GearBOX.step
+DItemRevisionGUID=
+
+[GeneratedDocument36]
+DocumentPath=Project Outputs for GearBOX\GearBOX-Fabrication-2024-02-14\NC_Drill\GearBOX.TXT
+DItemRevisionGUID=
+
+[GeneratedDocument37]
+DocumentPath=Project Outputs for GearBOX\GearBOX-Fabrication-2024-02-14\BoardStack\GearBOX.xls
+DItemRevisionGUID=
+
+[GeneratedDocument38]
+DocumentPath=Project Outputs for GearBOX-Main\GearBOX-Main-Fabrication-2024-05-29\PickPlace\Pick Place for GearBOX-Main.csv
+DItemRevisionGUID=
+
+[GeneratedDocument39]
+DocumentPath=Project Outputs for GearBOX-Main\GearBOX-Main-Fabrication-2024-05-29\PickPlace\Pick Place for GearBOX-Main.txt
+DItemRevisionGUID=
+
+[GeneratedDocument40]
+DocumentPath=Project Outputs for GearBOX\GearBOX-Fabrication-2024-02-14\PickPlace\Pick Place for GearBOX.csv
+DItemRevisionGUID=
+
+[GeneratedDocument41]
 DocumentPath=Project Outputs for GearBOX\GearBOX-Fabrication-2024-02-14\PickPlace\Pick Place for GearBOX.txt
 DItemRevisionGUID=
 
 [DeviceSheetFolder1]
 Path=D:\Project\AltiumElectronicComponent\
 IncludeSubFolders=1
+
+[Parameter1]
+Name=Title
+Value=Manual gearbox handle Gamepad
+
+[Parameter2]
+Name=DocumentNumber
+Value==ProjectName
 
 [Configuration1]
 Name=Sources
@@ -279,7 +371,7 @@ ContentTypeGUID=CB6F2064-E317-11DF-B822-12313F0024A2
 ConfigurationType=Source
 
 [Generic_EDE]
-OutputDir=
+OutputDir=Project Outputs for GearBOX-Main
 
 [OutputGroup1]
 Name=Netlist Outputs
