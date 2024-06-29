@@ -1,0 +1,42 @@
+Altium Designer Pick and Place Locations
+D:\stm_projects\GearBOX-Hardware\Project Outputs for GearBOX-Main\GearBOX-Main-Fabrication-2024-05-29\PickPlace\Pick Place for GearBOX-Main.txt
+
+========================================================================================================================
+File Design Information:
+
+Date:       29.05.24
+Time:       19:18
+Revision:   Not in VersionControl
+Variant:    No variations
+Units used: mm
+
+Designator Comment           Layer    Footprint                                               Center-X(mm) Center-Y(mm) Rotation 
+R10        CR0805-4K7-1%     TopLayer SMD_RES_0805-L2000-W1250-H500-M4701                     6.1000mm     37.6000mm    0        
+R5         CR0805-4K7-1%     TopLayer SMD_RES_0805-L2000-W1250-H500-M4701                     6.1000mm     39.6000mm    0        
+XS4        DS1066-04MVW6X    TopLayer DS1066-04MVW6X                                          40.4000mm    32.4000mm    90       
+XS3        DS1066-04MVW6X    TopLayer DS1066-04MVW6X                                          40.4000mm    21.4000mm    90       
+R9         CR0805-4K7-1%     TopLayer SMD_RES_0805-L2000-W1250-H500-M4701                     34.5000mm    33.4000mm    0        
+R8         CR0805-4K7-1%     TopLayer SMD_RES_0805-L2000-W1250-H500-M4701                     34.5000mm    31.4000mm    0        
+R7         CR0805-4K7-1%     TopLayer SMD_RES_0805-L2000-W1250-H500-M4701                     34.5000mm    22.4000mm    0        
+R6         CR0805-4K7-1%     TopLayer SMD_RES_0805-L2000-W1250-H500-M4701                     34.5000mm    20.4000mm    0        
+XP1        DS1021-1X04SF11-B TopLayer DS1021-1X04SF11-B                                       2.0000mm     38.6300mm    270      
+U3         LM1117DT-3.3/NOPB TopLayer SOT223                                                  13.8000mm    42.6000mm    90       
+C19        CL31B106KBHNNNE   TopLayer Normal_Capacitor_Standard_1206-L3200-W1600-BW1250-H1600 13.8000mm    36.9000mm    0        
+C18        CL31B106KBHNNNE   TopLayer Normal_Capacitor_Standard_1206-L3200-W1600-BW1250-H1600 13.8000mm    48.3000mm    0        
+C7         CL21B104MBFNNNE   TopLayer Normal_Capacitor_Standard_0805-L2000-W1250-BW500-H1350  16.2000mm    22.8000mm    270      
+VD1        SMBJ5.0A          TopLayer 2-MOLDED-E4600-D4000-A2700-H5600-B2200                  13.8000mm    51.8000mm    180      
+U1         STM32F072C8T6TR   TopLayer 48-LQFP                                                 23.0000mm    26.1000mm    90       
+R4         CR0805-24R-1%     TopLayer SMD_RES_0805-L2000-W1250-H500-M24R0                     24.0000mm    43.7000mm    270      
+R3         CR0805-24R-1%     TopLayer SMD_RES_0805-L2000-W1250-H500-M24R0                     22.0000mm    43.7000mm    270      
+R2         CR0805-1K5-1%     TopLayer SMD_RES_0805-L2000-W1250-H500-M1501                     20.0000mm    43.7000mm    270      
+R1         CR0805-10K-1%     TopLayer SMD_RES_0805-L2000-W1250-H500-M1002                     34.5000mm    11.3000mm    0        
+D2         BAV99L            TopLayer 3-SOT23                                                 25.0000mm    49.7000mm    270      
+D1         BAV99L            TopLayer 3-SOT23                                                 21.0000mm    49.7000mm    270      
+C6         CL21B104MBFNNNE   TopLayer Normal_Capacitor_Standard_0805-L2000-W1250-BW500-H1350  19.8000mm    32.8000mm    180      
+C5         CL21B104MBFNNNE   TopLayer Normal_Capacitor_Standard_0805-L2000-W1250-BW500-H1350  29.6524mm    30.7171mm    90       
+C4         CL31B475KBHNNNE   TopLayer Normal_Capacitor_Standard_1206-L3200-W1600-BW1250-H1600 13.8000mm    34.3000mm    0        
+C3         CL21B104MBFNNNE   TopLayer Normal_Capacitor_Standard_0805-L2000-W1250-BW500-H1350  23.5000mm    18.3053mm    0        
+C2         CL21B105MBFNNNE   TopLayer Normal_Capacitor_Standard_0805-L2000-W1250-BW500-H1350  23.5000mm    16.3053mm    0        
+C1         CL21B104MBFNNNE   TopLayer Normal_Capacitor_Standard_0805-L2000-W1250-BW500-H1350  20.5000mm    17.3000mm    90       
+XS2        DS1066-02MVW6X    TopLayer DS1066-02MVW6X                                          40.4000mm    12.4000mm    90       
+XS1        DS1099-WN0        TopLayer DS1099                                                  23.0000mm    58.2000mm    180      

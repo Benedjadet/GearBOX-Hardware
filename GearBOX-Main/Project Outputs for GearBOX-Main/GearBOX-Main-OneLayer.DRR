@@ -1,0 +1,18 @@
+----------------------------------------------------------------------------------------------------------------------------------
+NCDrill File Report For: GearBOX-Main-OneLayer.PcbDoc   04.06.2024  10:30:46
+----------------------------------------------------------------------------------------------------------------------------------
+
+Layer Pair : Top Layer to Bottom Layer
+ASCII RoundHoles File : GearBOX-Main-OneLayer.TXT
+
+Tool       Hole Size               Hole Tolerance               Hole Type       Hole Count   Plated         Tool Travel
+----------------------------------------------------------------------------------------------------------------------------------
+T1      0.8mm (31mil)                                             Round             10        PTH        44.85mm (1.77inch)
+T2      1mm (39mil)                                               Round             6         PTH        21.86mm (0.86inch)
+T3      1.02mm (40mil)                                            Round             4         PTH        7.62mm (0.30inch)
+T4      1.5mm (59mil)                                             Round             2         PTH        7.00mm (0.28inch)
+T5      2.3mm (91mil)                                             Round             2         PTH        12.04mm (0.47inch)
+----------------------------------------------------------------------------------------------------------------------------------
+Totals                                                                              24
+
+Total Processing Time (hh:mm:ss) : 00:00:01

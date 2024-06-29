@@ -1,0 +1,27 @@
+Change Component DesignItemId : Designator=R12 Old DesignItemId=CR0805-10K-1% New DesignItemId=RC2012(0805)
+Change Component DesignItemId : Designator=R11 Old DesignItemId=CR0805-100K-1% New DesignItemId=RC2012(0805)
+Change Component Footprint: Designator=VT1 Old Footprint=3-SOT23 New Footprint=3-SOT23 - OVERLAY
+Change Component Footprint: Designator=C1 Old Footprint=Normal_Capacitor_Standard_0805-L2000-W1250-BW500-H1350 New Footprint=Normal_Capacitor_Standard_0805-L2000-W1250-BW500-H1350 - OVERLAY
+Change Component Footprint: Designator=C8 Old Footprint=Normal_Capacitor_Standard_0805-L2000-W1250-BW500-H1350 New Footprint=Normal_Capacitor_Standard_0805-L2000-W1250-BW500-H1350 - OVERLAY
+Change Component Footprint: Designator=R12 Old Footprint=SMD_RES_0805-L2000-W1250-H500-M1002 New Footprint=CHIPRESISTOR-0805-L2000-W1250-B350-H550-Overlay-L4000-W2000
+Change Component Footprint: Designator=R11 Old Footprint=SMD_RES_0805-L2000-W1250-H500-M1003 New Footprint=CHIPRESISTOR-0805-L2000-W1250-B350-H550-Overlay-L4000-W2000
+Change Component Comment : Designator=R12 Old Comment=CR0805-10K-1% New Comment=RC2012(0805)
+Change Component Comment : Designator=R11 Old Comment=CR0805-100K-1% New Comment=RC2012(0805)
+Change Component Description : Designator=R11 Old Description=Film resistor SMD 0805 New Description=Samsung Chip Resistors General Standard 0805
+Change Component Description : Designator=R12 Old Description=Film resistor SMD 0805 New Description=Samsung Chip Resistors General Standard 0805
+Change Component Library : Designator=R11 Old Library=ChipResistors-0805-E24.SchLib New Library=Samsung-ChipResistors.SchLib
+Change Component Library : Designator=R12 Old Library=ChipResistors-0805-E24.SchLib New Library=Samsung-ChipResistors.SchLib
+Change component parameters: Designator = "C1" ("C1"); Footprint = "Normal_Capacitor_Standard_0805-L2000-W1250-BW500-H1350"; UniqueID = "\GWQCZZPH\LTOVNUXJ\NNBAQCPB" ("\GWQCZZPH\LTOVNUXJ\NNBAQCPB")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "SAMSUNG ELECTRO-MECHANICS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100N/X7R/50V/±20%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "C8" ("C8"); Footprint = "Normal_Capacitor_Standard_0805-L2000-W1250-BW500-H1350"; UniqueID = "\GWQCZZPH\LTOVNUXJ\KPYRPBKR" ("\GWQCZZPH\LTOVNUXJ\KPYRPBKR")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "SAMSUNG ELECTRO-MECHANICS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100N/X7R/50V/±20%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R11" ("R11"); Footprint = "SMD_RES_0805-L2000-W1250-H500-M1003"; UniqueID = "\GWQCZZPH\LTOVNUXJ\ZCFBVUYY" ("\GWQCZZPH\LTOVNUXJ\ZCFBVUYY")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "SAMSUNG ELECTRO-MECHANICS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "100K/1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "R12" ("R12"); Footprint = "SMD_RES_0805-L2000-W1250-H500-M1002"; UniqueID = "\GWQCZZPH\LTOVNUXJ\NRUCQVJM" ("\GWQCZZPH\LTOVNUXJ\NRUCQVJM")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = "SAMSUNG ELECTRO-MECHANICS"; VariantName = "[No Variations]"
+Change component parameters (AddParameter): Name = "Value"; Value = "10K/1%"; VariantName = "[No Variations]"
+Change component parameters: Designator = "VT1" ("VT1"); Footprint = "3-SOT23"; UniqueID = "\GWQCZZPH\LTOVNUXJ\XSYHAOBP" ("\GWQCZZPH\LTOVNUXJ\XSYHAOBP")
+Change component parameters (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"

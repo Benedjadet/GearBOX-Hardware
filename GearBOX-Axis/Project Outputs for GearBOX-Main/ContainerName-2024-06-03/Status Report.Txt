@@ -1,0 +1,17 @@
+Project Outputs Generation Report
+---------------------------------
+Start Output Generation At 16:11:05 On 03.06.2024
+
+Output: Gerber
+Type  : Gerber
+From  : Variant [[No Variations]] of PCB Document [GearBOX-Axis.PcbDoc]
+   Generated File[GearBOX-Axis.GBL]
+   Generated File[GearBOX-Axis.RUL]
+   Generated File[GearBOX-Axis.EXTREP]
+   Generated File[GearBOX-Axis.REP]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 16:11:06 On 03.06.2024

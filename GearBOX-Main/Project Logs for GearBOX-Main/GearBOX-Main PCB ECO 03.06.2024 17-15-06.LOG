@@ -1,0 +1,31 @@
+Removed Pin From Net: NetName=GND Pin=C1-1
+Removed Pin From Net: NetName=NRST Pin=C1-2
+Removed Pin From Net: NetName=GND Pin=U1-44
+Removed Member From Class: ClassName=MCU Member=C1
+Added Component: Designator=C8(Normal_Capacitor_Standard_0805-L2000-W1250-BW500-H1350)
+Add component (AddParameter): Name = "Value"; Value = "100N/X7R/50V/±20%"; VariantName = "[No Variations]"
+Added Component: Designator=R11(SMD_RES_0805-L2000-W1250-H500-M1003)
+Add component (AddParameter): Name = "Value"; Value = "100K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=R12(SMD_RES_0805-L2000-W1250-H500-M1002)
+Add component (AddParameter): Name = "Value"; Value = "10K/1%"; VariantName = "[No Variations]"
+Added Component: Designator=SA1(DS1041-21-2038KKA10010)
+Add component (AddParameter): Name = "Manufacturer"; Value = "CONNFLY ELECTRONIC CO.,LTD."; VariantName = "[No Variations]"
+Added Component: Designator=VT1(3-SOT23)
+Added Pin To Net: NetName=GND Pin=C8-1
+Added Pin To Net: NetName=NRST Pin=C8-2
+Added Pin To Net: NetName=GND Pin=R11-1
+Added Pin To Net: NetName=GND Pin=R12-1
+Added Pin To Net: NetName=DC3V3 Pin=SA1-2
+Added Pin To Net: NetName=GND Pin=VT1-2
+Added Pin To Net: NetName=NRST Pin=VT1-3
+Added Pin To Net: NetName=BOOT Pin=C1-1
+Added Pin To Net: NetName=BOOT Pin=R12-2
+Added Pin To Net: NetName=BOOT Pin=SA1-1
+Added Pin To Net: NetName=BOOT Pin=U1-44
+Added Net: Name=BOOT
+Added Pin To Net: NetName=NetC1_2 Pin=C1-2
+Added Pin To Net: NetName=NetC1_2 Pin=R11-2
+Added Pin To Net: NetName=NetC1_2 Pin=VT1-1
+Added Net: Name=NetC1_2
+Added Class: Name=BootUp
+Added Room: Name=BootUp

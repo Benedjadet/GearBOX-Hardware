@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [GearBOX-Axis.PrjPcb]
+   Generated File[GearBOX-Axis.TXT]
+   Generated File[GearBOX-Axis.LDP]
+   Generated File[GearBOX-Axis.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 10:41:08 On 04.06.2024

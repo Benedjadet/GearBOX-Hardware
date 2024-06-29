@@ -1,0 +1,23 @@
+Change Physical Footprint: Designator=C1 Old Footprint=Normal_Capacitor_Standard_0805-L2000-W1250-BW500-H1350 - OVERLAY New Footprint=Normal_Capacitor_Standard_0805-L2000-W1250-BW500-H1350 - OVERLAY
+Change Physical Footprint: Designator=C2 Old Footprint=Normal_Capacitor_Standard_0805-L2000-W1250-BW500-H1350 New Footprint=Normal_Capacitor_Standard_0805-L2000-W1250-BW500-H1350
+Change Physical Footprint: Designator=C3 Old Footprint=Normal_Capacitor_Standard_0805-L2000-W1250-BW500-H1350 New Footprint=Normal_Capacitor_Standard_0805-L2000-W1250-BW500-H1350
+Change Physical Footprint: Designator=C4 Old Footprint=Normal_Capacitor_Standard_1206-L3200-W1600-BW1250-H1600 New Footprint=Normal_Capacitor_Standard_1206-L3200-W1600-BW1250-H1600
+Change Physical Footprint: Designator=C5 Old Footprint=Normal_Capacitor_Standard_0805-L2000-W1250-BW500-H1350 New Footprint=Normal_Capacitor_Standard_0805-L2000-W1250-BW500-H1350
+Change Physical Footprint: Designator=C6 Old Footprint=Normal_Capacitor_Standard_0805-L2000-W1250-BW500-H1350 New Footprint=Normal_Capacitor_Standard_0805-L2000-W1250-BW500-H1350
+Change Physical Footprint: Designator=C7 Old Footprint=Normal_Capacitor_Standard_0805-L2000-W1250-BW500-H1350 New Footprint=Normal_Capacitor_Standard_0805-L2000-W1250-BW500-H1350
+Change Physical Footprint: Designator=C8 Old Footprint=Normal_Capacitor_Standard_0805-L2000-W1250-BW500-H1350 - OVERLAY New Footprint=Normal_Capacitor_Standard_0805-L2000-W1250-BW500-H1350 - OVERLAY
+Change Physical Footprint: Designator=C18 Old Footprint=Normal_Capacitor_Standard_1206-L3200-W1600-BW1250-H1600 New Footprint=Normal_Capacitor_Standard_1206-L3200-W1600-BW1250-H1600
+Change Physical Footprint: Designator=C19 Old Footprint=Normal_Capacitor_Standard_1206-L3200-W1600-BW1250-H1600 New Footprint=Normal_Capacitor_Standard_1206-L3200-W1600-BW1250-H1600
+Change Physical Footprint: Designator=D1 Old Footprint=3-SOT23 New Footprint=3-SOT23
+Change Physical Footprint: Designator=D2 Old Footprint=3-SOT23 New Footprint=3-SOT23
+Change Physical Footprint: Designator=R11 Old Footprint=CHIPRESISTOR-0805-L2000-W1250-B350-H550-Overlay-L4000-W2000 New Footprint=CHIPRESISTOR-0805-L2000-W1250-B350-H550-Overlay-L4000-W2000
+Change Physical Footprint: Designator=R12 Old Footprint=CHIPRESISTOR-0805-L2000-W1250-B350-H550-Overlay-L4000-W2000 New Footprint=CHIPRESISTOR-0805-L2000-W1250-B350-H550-Overlay-L4000-W2000
+Change Physical Footprint: Designator=U1 Old Footprint=48-LQFP New Footprint=48-LQFP
+Change Physical Footprint: Designator=U3 Old Footprint=SOT223 New Footprint=SOT223
+Change Physical Footprint: Designator=VD1 Old Footprint=2-MOLDED-E4600-D4000-A2700-H5600-B2200 New Footprint=2-MOLDED-E4600-D4000-A2700-H5600-B2200
+Change Physical Footprint: Designator=VT1 Old Footprint=3-SOT23 - OVERLAY New Footprint=3-SOT23 - OVERLAY
+Change Physical Footprint: Designator=XP1 Old Footprint=DS1021-1X04SF11-B New Footprint=DS1021-1X04SF11-B
+Change Physical Footprint: Designator=XS1 Old Footprint=DS1099 New Footprint=DS1099
+Change Physical Footprint: Designator=XS2 Old Footprint=DS1066-02MVW6X New Footprint=DS1066-02MVW6X
+Change Physical Footprint: Designator=XS3 Old Footprint=DS1066-04MVW6X New Footprint=DS1066-04MVW6X
+Change Physical Footprint: Designator=XS4 Old Footprint=DS1066-04MVW6X New Footprint=DS1066-04MVW6X

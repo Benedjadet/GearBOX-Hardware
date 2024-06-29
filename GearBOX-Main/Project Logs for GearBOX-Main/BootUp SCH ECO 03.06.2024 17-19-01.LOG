@@ -1,0 +1,6 @@
+Replace Part C1 CL21B104MBFNNNE in D:\stm_projects\GearBOX-Hardware\GearBOX-Main\BootUp.SchDoc with CL21B104MBFNNNE from Samsung-MLCC-0805.SchLib
+Replace Part C8 CL21B104MBFNNNE in D:\stm_projects\GearBOX-Hardware\GearBOX-Main\BootUp.SchDoc with CL21B104MBFNNNE from Samsung-MLCC-0805.SchLib
+Replace Part R11 CR0805-100K-1% in D:\stm_projects\GearBOX-Hardware\GearBOX-Main\BootUp.SchDoc with CR0805-100K-1% from ChipResistors-0805-E24.SchLib
+Replace Part R12 CR0805-10K-1% in D:\stm_projects\GearBOX-Hardware\GearBOX-Main\BootUp.SchDoc with CR0805-10K-1% from ChipResistors-0805-E24.SchLib
+Replace Part SA1 DS1041-21-2038KKA10010 in D:\stm_projects\GearBOX-Hardware\GearBOX-Main\BootUp.SchDoc with DS1041-21-2038KKA10010 from mfmc_components.SchLib
+Replace Part VT1 BSS138 in D:\stm_projects\GearBOX-Hardware\GearBOX-Main\BootUp.SchDoc with BSS138 from mfmc_components.SchLib
